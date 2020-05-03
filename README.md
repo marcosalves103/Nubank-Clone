@@ -3,7 +3,7 @@
 </h1>
 <p align="center">💜💳📱 Clone da interface do aplicativo Nubank feito com React-Native e Expo-CLI</p>
 
-![alt text](https://rychillie.net/images/nubank.png "Screenshots")
+![App Screenshots](https://rychillie.net/images/nubank.png)
 
 ## 🚀 Apresentação
 
