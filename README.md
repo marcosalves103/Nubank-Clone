@@ -1,5 +1,5 @@
 <h1 align="center">
-  Nubank Clone
+  💜💳📱 Nubank Clone
 </h1>
 <p align="center">💜💳📱 Clone da interface do aplicativo Nubank feito com React-Native e Expo-CLI</p>
 
