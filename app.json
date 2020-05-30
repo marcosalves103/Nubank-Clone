@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nubank",
-    "slug": "nubank",
+    "name": "Nubank Clone",
+    "slug": "nubank-clone",
     "platforms": [
       "ios",
       "android",
@@ -24,6 +24,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "💜💳📱 Clone da interface do aplicativo Nubank feito com React-Native e Expo-CLI",
+    "githubUrl": "https://github.com/Rychillie/Nubank-Clone"
   }
 }
