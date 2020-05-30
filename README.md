@@ -7,7 +7,7 @@
 
 ## 🚀 Apresentação
 
-Este projeto foi realizado em LiveStream, através da plataforma [Twitch.tv](httsp://twitch.tv) no [meu canal pessoal da Twitch.tv](httsp://twitch.tv/rychillie) como forma de treinamento e ensino para a comunidade brasileira de desenvolvimento.
+Este projeto foi realizado em LiveStream, através da plataforma [Twitch.tv](https://twitch.tv) no [meu canal pessoal da Twitch.tv](https://twitch.tv/rychillie) como forma de treinamento e ensino para a comunidade brasileira de desenvolvimento.
 
 Este projeto não visa nenhum lucro, apenas foca em compartilhar conhecimento e um crescimento pessoal e profissional.
 
